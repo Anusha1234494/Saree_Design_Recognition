@@ -1,0 +1,8 @@
+{
+    "verification_threshold": 0.9437035918235779,
+    "embedding_dim": 128,
+    "image_size": 224,
+    "model": "ResNet18",
+    "loss": "ContrastiveLoss",
+    "similarity": "cosine"
+}
