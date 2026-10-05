@@ -1,15 +1,6 @@
 venv/
-.venv/
-
 __pycache__/
 *.pyc
-
-model/gallery_images/
-model/gallery_paths.csv
-
-test_images/
-
-*.zip
-.env
-
 .ipynb_checkpoints/
+.env
+.vscode/
